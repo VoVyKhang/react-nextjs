@@ -6,8 +6,12 @@ module.exports = {
       colors: {
         grayf4: '#f4f4f4',
         grayfc: '#fcfcfc',
-        primary: '#11142D',
+        primary: '#475BE8',
         gray80: '#808191',
+        primaryText: '#11142D',
+      },
+      spacing: {
+        c10: '10px',
       },
     },
   },
