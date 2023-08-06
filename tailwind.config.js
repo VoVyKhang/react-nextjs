@@ -9,6 +9,7 @@ module.exports = {
         primary: '#475BE8',
         gray80: '#808191',
         primaryText: '#11142D',
+        secondary: '#DADEFA',
       },
       spacing: {
         c10: '10px',

@@ -12,7 +12,7 @@ const MainLayout: React.FC<IMainLayoutProps> = ({ children }) => {
       <Topbar></Topbar>
       <div className="grid grid-cols-[250px_minmax(0,1fr)] min-h-screen">
         <Sidebar></Sidebar>
-        <div>{children}</div>
+        <div className="py-7 px-6">{children}</div>
       </div>
     </Fragment>
   )
